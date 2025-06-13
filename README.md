@@ -28,6 +28,8 @@ pkg install python git -y
 # Python kütüphaneleri
 pip install requests cfonts
 
+git clone https://github.com/Mustafa550/igtool.git
+cd igtool
 
 ---
 
